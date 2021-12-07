@@ -3,3 +3,5 @@ A search engine-like programme in C, this programme reads 42 text files, searchs
 following the logic of a priority queue.
 More occurences of the word bring more significance.
 
+
+Created for CSE 2025 DATA STRUCTURES course.
